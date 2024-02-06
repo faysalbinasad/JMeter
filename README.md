@@ -1,7 +1,5 @@
 Hello,
-
 Thanks for visting the Repository.
-
 In this repository I have included different fundamental portions of JMETER.
 
 This includes---
