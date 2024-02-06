@@ -6,9 +6,7 @@ In this repository I have included different fundamental portions of JMETER.
 
 This includes---
 
-i) Recording and playback JMETER scripts using JMETER recorder and Blazemeter extension.
-
-ii) Thread group, Listeners.
+i) Recording and playback JMETER scripts using JMETER recorder and Blazemeter extension.<br>ii) Thread group, Listeners.
 
 iii) Additional plugins, Concurrent Thread Group, Ultimate Thread Group.
 
